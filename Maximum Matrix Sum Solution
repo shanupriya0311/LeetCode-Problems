@@ -1,0 +1,26 @@
+class Solution {
+    public long maxMatrixSum(int[][] matrix) {
+        long sum=0;
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int min=Integer.MAX_VALUE;
+        PriorityQueue<Integer>pq=new PriorityQueue<>();
+        int ncount=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                 if(matrix[i][j]<0){
+                    matrix[i][j]=-1*matrix[i][j];
+                    ncount++;
+                 }
+                 pq.offer(matrix[i][j]);
+                 sum+=matrix[i][j];
+            }}
+            if(ncount%2==0){
+                return sum;
+            }
+            else{
+                return sum-2*pq.peek();
+            }
+    
+    }
+}
