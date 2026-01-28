@@ -1,0 +1,22 @@
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int n=s.size();
+        vector<int>array(256,0);
+         int i=0;
+         int j=0;
+         int maximum=0;
+         while(j<n){
+            if(array[s[j]]){
+                array[s[i]]=0;
+                i++;
+            }else{
+            array[s[j]]=1;
+             maximum=max(j-i+1,maximum);
+            j=j+1;
+            }
+           
+         }
+         return maximum;
+    }
+};
