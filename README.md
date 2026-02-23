@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 ## Memoization
