@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 ## String
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
