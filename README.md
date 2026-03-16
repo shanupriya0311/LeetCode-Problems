@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
+| [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 ## Matrix
 |  |
 | ------- |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
