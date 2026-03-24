@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -127,13 +128,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
