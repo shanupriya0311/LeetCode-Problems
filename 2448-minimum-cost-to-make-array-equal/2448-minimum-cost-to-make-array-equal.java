@@ -8,7 +8,7 @@ class Solution {
         }
         long result=Long.MAX_VALUE;
         while(left<=right){
-            int mid=left+(right-left)/2;
+            int mid=(left+right)/2;
             long c1=findcost(nums,cost,mid);
             long c2=findcost(nums,cost,mid+1);
             if(c1>c2){
