@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
