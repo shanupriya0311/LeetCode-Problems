@@ -1,42 +1,29 @@
-import java.util.*;
-
 class Solution {
     public String convert(String s, int numRows) {
-        int n = s.length();
-        if (numRows == 1) return s;
-
-        List<List<Character>> arr = new ArrayList<>();
-
-        // ✅ initialize rows
-        for (int l = 0; l < numRows; l++) {
-            arr.add(new ArrayList<>());
+        int n=s.length();
+        List<List<Character>>arr=new ArrayList<>();
+        for(int l=0;l<numRows;l++){
+           arr.add(new ArrayList<>());
         }
-
-        int k = 0;
-
-        // simulate zigzag
-        while (k < n) {
-
-            // ⬇️ going down
-            for (int i = 0; i < numRows && k < n; i++) {
-                arr.get(i).add(s.charAt(k++)); // ✅ use add()
+        int k=0;
+        int i=0;
+        while(k<n){
+            for(i=0;i<numRows && k<n;i++){
+                arr.get(i).add(s.charAt(k));
+                k++;
             }
-
-            // ⬆️ going up diagonally
-            for (int i = numRows - 2; i > 0 && k < n; i--) {
-                arr.get(i).add(s.charAt(k++)); // ✅ use add()
+            for(i=i-2;i>0 && k<n;i--){
+                
+                arr.get(i).add(s.charAt(k));
+                k++;
             }
         }
-
-        // ✅ build result
-        StringBuilder result = new StringBuilder();
-
-        for (int i = 0; i < numRows; i++) {
-            for (char c : arr.get(i)) {
+        StringBuilder result=new StringBuilder();
+        for(int j=0;j<numRows;j++){
+            for(Character c:arr.get(j)){
                 result.append(c);
             }
         }
-
-        return result.toString();
+        return new String(result);
     }
 }
