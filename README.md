@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0040-combination-sum-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
+| [0077-combinations](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 ## Depth-First Search
