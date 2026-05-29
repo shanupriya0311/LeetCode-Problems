@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0212-word-search-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Linked List
