@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0704-binary-search) |
