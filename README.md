@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Math
 |  |
