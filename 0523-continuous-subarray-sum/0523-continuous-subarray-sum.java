@@ -14,7 +14,7 @@ class Solution {
         map.put(0,-1);
         for(int i=0;i<n;i++){
           int v=prefix[i]%k;
-          if(map.containsKey(v) &&  i-map.get(v)>=2){
+          if(map.containsKey(v) &&  i-map.get(v)>=2 && (prefix[i]-prefix[map.get(v)])%k==0){
             return true;
           }
           if(!map.containsKey(v)) {
