@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Recursion
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Heap (Priority Queue)
 |  |
