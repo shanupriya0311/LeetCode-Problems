@@ -1,28 +1,28 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        Queue<Integer>pq=new LinkedList<>();
-        pq.add(0);
         int n=nums.length;
-        boolean[] visit=new boolean[n];
-        if(n==1){
-            return true;
+        int[] prefix=new int[n];
+        if(n == 1) return true;
+        for(int i=0;i<n;i++){
+            prefix[i]=i+nums[i];
         }
-        while(!pq.isEmpty()){
-            int i=pq.poll();
-            int count=1;
-            while(count<=nums[i] && i+count<=n-1){
-              if(!visit[i+count]){
-                visit[i+count]=true;
-                pq.add(i+count);
-              }
-              count++;
+        int maxlen=prefix[0];
+        int old=maxlen;
+        int i=1;
+       while(i<n){
+        while(i<=maxlen){
+            if(prefix[i]>=n-1){
+                return true;
             }
+            maxlen=Math.max(prefix[i],maxlen);
+            i++;
         }
-        if(visit[n-1]){
-            return true;
+        if(old == maxlen){
+            break;
         }
-        else{
-            return false;
+        old=maxlen;
+        i=maxlen;
         }
+        return false;
     }
 }
