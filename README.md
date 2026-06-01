@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0198-house-robber) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Trie
 |  |
