@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
