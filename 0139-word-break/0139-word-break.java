@@ -1,29 +1,19 @@
 class Solution {
-    Boolean[] memo;
     public boolean wordBreak(String s, List<String> wordDict) {
-        memo=new Boolean[s.length()];
-        return backtrack(s,wordDict,0);
+        int n=s.length();
+        int m=wordDict.size();
+        Set<String>set=new HashSet<>(wordDict);
+        boolean[] dp=new boolean[n+1];
+        dp[0]=true;
+        int j=0;
+        for(int i=1;i<=n;i++){
+         for(int k=0;k<i;k++){
+             if(dp[k] && set.contains(s.substring(k,i))){
+               dp[i]=true;
+               break;
+             }
+         }
+        }
+      return dp[n];
     }
-    public boolean backtrack(String s,List<String>worddic,int start){
-        if(start==s.length()){
-            return true;
-        }
-        if(memo[start]!=null){
-            return memo[start];
-        }
-        for(int i=0;i<worddic.size();i++){
-            if(s.charAt(start)==worddic.get(i).charAt(0)){
-                int len=worddic.get(i).length();
-                if(start+len<=s.length()){
-                    if(s.substring(start,start+len).equals(worddic.get(i))){
-                    if(backtrack(s,worddic,start+len)){
-                        memo[start]=true;
-                        return true;
-                    }
-                }
-            }}
-                }
-            memo[start]=false;
-            return false;
-        }
-};
+}
