@@ -1,28 +1,16 @@
 class Solution {
     public boolean canJump(int[] nums) {
         int n=nums.length;
-        int[] prefix=new int[n];
-        if(n == 1) return true;
+        boolean[] dp=new boolean[n];
+        dp[0]=true;
         for(int i=0;i<n;i++){
-            prefix[i]=i+nums[i];
+           int k=nums[i]+i;
+           if(dp[i]){
+             for(int j=i;j<=k && j<n;j++){
+              dp[j]=true;
+           }
+           }
         }
-        int maxlen=prefix[0];
-        int old=maxlen;
-        int i=1;
-       while(i<n){
-        while(i<=maxlen){
-            if(prefix[i]>=n-1){
-                return true;
-            }
-            maxlen=Math.max(prefix[i],maxlen);
-            i++;
-        }
-        if(old == maxlen){
-            break;
-        }
-        old=maxlen;
-        i=maxlen;
-        }
-        return false;
+        return dp[n-1];
     }
 }
