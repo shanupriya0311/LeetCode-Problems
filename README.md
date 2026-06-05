@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Breadth-First Search
 |  |
