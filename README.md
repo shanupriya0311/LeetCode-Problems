@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
@@ -231,12 +232,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
