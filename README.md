@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
