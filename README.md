@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0227-basic-calculator-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
