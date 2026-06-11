@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3340-check-balanced-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3340-check-balanced-string) |
 ## Dynamic Programming
 |  |
 | ------- |
