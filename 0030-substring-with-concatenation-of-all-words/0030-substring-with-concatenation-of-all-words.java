@@ -26,12 +26,6 @@ class Solution {
                  }
                  if(wordcount==count){
                      list.add(i);
-                      String leftWord = s.substring(i, i + m);
-
-                      map.put(leftWord, map.get(leftWord) - 1);
-                      count--;
-
-                       i += m;
                  }
             }
             else{
