@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
+| [3713-longest-balanced-substring-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3340-check-balanced-string](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3340-check-balanced-string) |
+| [3713-longest-balanced-substring-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,8 +376,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [3713-longest-balanced-substring-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
