@@ -20,7 +20,7 @@ class Solution {
             if(cur==1){
                continue;
             }
-            while(cur <= Integer.MAX_VALUE  && set.contains((int)cur)){
+            while(set.contains((int)cur)){
                 int freq = map.getOrDefault((int)cur, 0);
                 if (freq==0)
                     break;
