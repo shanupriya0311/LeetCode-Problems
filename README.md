@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
