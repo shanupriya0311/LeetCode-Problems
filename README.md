@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 ## Graph Theory
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 ## Queue
 |  |
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
