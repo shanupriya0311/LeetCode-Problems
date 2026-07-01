@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 ## Matrix
 |  |
 | ------- |
@@ -264,18 +265,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
+| [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 ## Tree
 |  |
 | ------- |
