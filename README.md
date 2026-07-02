@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -430,4 +435,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
