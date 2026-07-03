@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Trie
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -293,12 +296,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Tree
 |  |
 | ------- |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Queue
 |  |
 | ------- |
@@ -445,4 +451,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
