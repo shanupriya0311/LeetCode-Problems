@@ -4,10 +4,9 @@ class Solution {
     public void flatten(TreeNode root) {
         preorder(root);
 
-        for (int i = 1; i < list.size(); i++) {
-            TreeNode prev = list.get(i - 1);
-            TreeNode curr = list.get(i);
-
+        for (int i = 0; i < list.size()-1; i++) {
+            TreeNode prev = list.get(i);
+            TreeNode curr = list.get(i+1);
             prev.left = null;
             prev.right = curr;
         }
