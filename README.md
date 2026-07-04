@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Trie
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1306-jump-game-iii](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1306-jump-game-iii) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1462-course-schedule-iv](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1462-course-schedule-iv) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
@@ -460,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
