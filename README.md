@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2762-continuous-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3620-network-recovery-pathways](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3713-longest-balanced-substring-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2126-destroying-asteroids](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2126-destroying-asteroids) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shanupriya0311/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
